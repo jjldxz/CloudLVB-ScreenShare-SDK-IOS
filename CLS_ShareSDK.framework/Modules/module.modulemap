@@ -1,0 +1,6 @@
+framework module CLS_ShareSDK {
+  umbrella header "CLS_ShareSDK.h"
+
+  export *
+  module * { export * }
+}
