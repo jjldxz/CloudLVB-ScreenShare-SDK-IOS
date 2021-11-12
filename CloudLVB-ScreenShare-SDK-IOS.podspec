@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 Da Xue Zhang Cloud Platform Screen Share SDK for iOS
                    DESC
 
-  spec.homepage     = "http://open.jjldxz.com"
+  spec.homepage     = "https://open.jjldxz.com/"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -91,9 +91,9 @@ Da Xue Zhang Cloud Platform Screen Share SDK for iOS
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "lib", "lib/*"
+  # spec.source_files  = "lib", "lib/*"
   spec.vendored_frameworks = "lib/CLS_ShareSDK.framework"
-  spec.exclude_files = "Classes/Exclude"
+  # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
@@ -106,7 +106,7 @@ Da Xue Zhang Cloud Platform Screen Share SDK for iOS
   #  non-essential files like tests, examples and documentation.
   #
 
-  spec.resource  = "icon.png"
+  # spec.resource  = "icon.png"
   # spec.resources = "Resources/*.png"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
