@@ -136,6 +136,6 @@ Da Xue Zhang Cloud Platform Screen Share SDK for iOS
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   spec.dependency "AFNetworking"
   spec.dependency "YYModel"
-  spec.dependency "AgoraRtcEngine_iOS", "~>3.4.7"
+  spec.dependency "AgoraRtcEngine_iOS", "3.4.7"
 
 end
