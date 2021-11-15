@@ -4,6 +4,14 @@ CLS_ShareSDK 是大学长平台开发的用户iOS端视频共享的SDK, 是配�
 
 SDK现支持iOS 11.0版本以上系统.
 
+使用方式
++ Pod仓引用
+
+```
+pod 'CloudLVB-ScreenShare-SDK-IOS'
+
+```
+
 ## 1.0.1``Overview``
 
 CLS_ShareSDK 是录制共享iOS端手机桌面的SDK
